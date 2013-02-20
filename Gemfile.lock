@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/eraad/spree_i18n.git
-  revision: dd391fba30caec8d07d5545dc231547a7806ea27
+  revision: 0947309ec87f06a9d638ee7acb4cdb6069e789f2
   specs:
     spree_i18n (1.0.0)
       i18n (~> 0.6)
