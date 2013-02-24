@@ -41,3 +41,6 @@ gem 'spree_gateway', :github => 'spree/spree_gateway', :branch => '1-3-stable'
 gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :branch => '1-3-stable'
 gem 'rails-i18n'
 gem 'spree_i18n', :git => 'git://github.com/eraad/spree_i18n.git'
+
+# gem 'bolon_theme', :path => '../bolon_theme'
+gem 'bolon_theme', :git => 'git://github.com/jplaza/bolon_theme.git'
